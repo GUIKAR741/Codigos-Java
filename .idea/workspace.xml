@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efd8fa06-cfc0-4190-b05d-955f52f70ec3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projeto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+      <find>length</find>
+      <find>NoP4</find>
+      <find>No</find>
+      <find>add</find>
+      <find>setPrio</find>
+      <find>release</find>
+      <find>permits</find>
+      <find>sync.</find>
+      <find>getPermi</find>
+      <find>float</find>
+      <find>insere</find>
+      <find>System.out.println(tree);</find>
+      <find>node</find>
+      <find>Node</find>
+      <find>getValue</find>
+      <find>getLeft</find>
+      <find>getRight</find>
+      <find>podeCadastrar</find>
+      <find>// TODO add your handling code here:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/controller/CaixaController.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/controller/EclusaController.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/controller/EmbarcacoesController.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/view/CaixaView.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/view/EclusaView.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/view/EmbarcacoesView.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Balsa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Cargueiro.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Container.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Data.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Embarcacao.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Lancha.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Pessoa.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Registro.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/calculadora/Calculos.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/calculadora/Calc.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/exemplos/CondSe.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Calcula.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Contar.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/EquacaoSegundoGrau.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/TelaSwingSuperCalculadoraJmf.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Triangulo.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Fatorial.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/ParImpar.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Soma.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/AdivinhaSwing.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/CifraInterface.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/telaSorteio.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q1/Painel_Q1.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q2/Painel_Q2.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q4/Painel_Q4.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q5/Painel_Q5.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/ufc/poo/termometro/view/ConfiguraClima.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/ufc/poo/mvc/TelaPrincipalConfiguracao.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/ufc/poo/termometro/view/ConfiguraClima.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q1/Painel_Q1.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q2/Painel_Q2.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q4/Painel_Q4.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q5/Painel_Q5.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/AdivinhaSwing.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/CifraInterface.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/telaSorteio.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/exemplos/CondSe.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Calcula.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Contar.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/EquacaoSegundoGrau.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Fatorial.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/ParImpar.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Soma.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/TelaSwingSuperCalculadoraJmf.java" />
+        <option value="$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Triangulo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>FreeMarker</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Method signatureScala</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>ScaladocScala</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="Projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="EstudoJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="311" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\poo\hora" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\poo\hora09" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\ed" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\ed\l2q4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.guikar.netbeans.ufc.poo" />
+      <recent name="br.com.guikar.ufc.poo.trabalho.model" />
+      <recent name="br.com.guikar.ufc.poo.equacao" />
+      <recent name="br.com.guikar.ufc.poo.hora" />
+      <recent name="br.com.guikar.ufc.poo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/com/guikar" />
+      <recent name="$PROJECT_DIR$/src/br/com/guikar/ufc/so" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\poo\hora" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\poo\hora\hora12" />
+      <recent name="C:\Users\Guilherme\Documents\Java\src\br\com\guikar\ufc\poo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.guikar.ufc.poo.trabalho" />
+      <recent name="br.com.guikar.ufc.ed" />
+      <recent name="br.com.guikar.ufc.poo.hora.eventoempreendedorismo" />
+      <recent name="br.com.guikar.ufc.poo.mvc" />
+      <recent name="br.com.guikar.ufc.poo.hora09.Q2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.guikar.ufc.poo.mvc" />
+      <recent name="br.com.guikar.ufc.poo.cida" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guikar.calculadora.Calc" />
+      <module name="Codigos-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.guikar.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.guikar.eclusa.Main" />
+      <module name="Codigos-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.guikar.eclusa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Calc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_PROPERTIES,SHOW_LAMBDA,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd8fa06-cfc0-4190-b05d-955f52f70ec3" name="Default" comment="" />
+      <created>1529501604494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529501604494</updated>
+      <workItem from="1529501625050" duration="931000" />
+      <workItem from="1531435032589" duration="1140000" />
+      <workItem from="1531439146984" duration="831000" />
+      <workItem from="1534944975246" duration="1552000" />
+      <workItem from="1535481272898" duration="1197000" />
+      <workItem from="1535482530218" duration="5086000" />
+      <workItem from="1535548344568" duration="3089000" />
+      <workItem from="1535624254659" duration="37000" />
+      <workItem from="1535624366354" duration="2014000" />
+      <workItem from="1535644945218" duration="4617000" />
+      <workItem from="1535798863357" duration="5166000" />
+      <workItem from="1535987884510" duration="2101000" />
+      <workItem from="1536076410335" duration="6818000" />
+      <workItem from="1536232855199" duration="37000" />
+      <workItem from="1536232969390" duration="10895000" />
+      <workItem from="1536407713430" duration="3836000" />
+      <workItem from="1536684637336" duration="5370000" />
+      <workItem from="1536863886309" duration="5049000" />
+      <workItem from="1537139029788" duration="4270000" />
+      <workItem from="1537182216899" duration="8385000" />
+      <workItem from="1537295150911" duration="4652000" />
+      <workItem from="1537360083913" duration="4370000" />
+      <workItem from="1537381699494" duration="2760000" />
+      <workItem from="1537468801445" duration="23754000" />
+      <workItem from="1537832019823" duration="6678000" />
+      <workItem from="1537996052066" duration="19457000" />
+      <workItem from="1538146939792" duration="3899000" />
+      <workItem from="1538474363078" duration="8456000" />
+      <workItem from="1538656566650" duration="277000" />
+      <workItem from="1539110541417" duration="21465000" />
+      <workItem from="1539218127298" duration="7265000" />
+      <workItem from="1539284780193" duration="1983000" />
+      <workItem from="1539343383960" duration="12434000" />
+      <workItem from="1539518027935" duration="6934000" />
+      <workItem from="1539543460850" duration="197000" />
+      <workItem from="1539597973688" duration="1757000" />
+      <workItem from="1539715045496" duration="1284000" />
+      <workItem from="1539877124496" duration="6456000" />
+      <workItem from="1539905621845" duration="53000" />
+      <workItem from="1539905679076" duration="9909000" />
+      <workItem from="1540233305904" duration="6446000" />
+      <workItem from="1540337341915" duration="1589000" />
+      <workItem from="1540380607292" duration="4946000" />
+      <workItem from="1540492174659" duration="2105000" />
+      <workItem from="1540575167785" duration="180000" />
+      <workItem from="1540575450465" duration="4974000" />
+      <workItem from="1540674025531" duration="7171000" />
+      <workItem from="1540725946176" duration="1313000" />
+      <workItem from="1540731498688" duration="584000" />
+      <workItem from="1540733189185" duration="2911000" />
+      <workItem from="1540745178790" duration="27802000" />
+      <workItem from="1540904295654" duration="1289000" />
+      <workItem from="1540939857546" duration="1158000" />
+      <workItem from="1540986118869" duration="3070000" />
+      <workItem from="1541013326832" duration="818000" />
+      <workItem from="1541070631475" duration="5209000" />
+      <workItem from="1541205755710" duration="2493000" />
+      <workItem from="1541261248476" duration="2275000" />
+      <workItem from="1541287245140" duration="1625000" />
+      <workItem from="1542145392773" duration="6188000" />
+      <workItem from="1542191079153" duration="10928000" />
+      <workItem from="1542281914944" duration="166000" />
+      <workItem from="1542471207118" duration="680000" />
+      <workItem from="1542479866530" duration="391000" />
+      <workItem from="1542480677520" duration="629000" />
+      <workItem from="1542495114914" duration="72000" />
+      <workItem from="1542495253554" duration="202000" />
+      <workItem from="1542632024136" duration="5419000" />
+      <workItem from="1542738991959" duration="4989000" />
+      <workItem from="1542751015819" duration="1058000" />
+      <workItem from="1542753689543" duration="33000" />
+      <workItem from="1542805831621" duration="3269000" />
+      <workItem from="1542836135857" duration="765000" />
+      <workItem from="1542912433765" duration="2513000" />
+      <workItem from="1542923979414" duration="406000" />
+      <workItem from="1542995529455" duration="632000" />
+      <workItem from="1543185901237" duration="347000" />
+      <workItem from="1543186356213" duration="93000" />
+      <workItem from="1543250332077" duration="11125000" />
+      <workItem from="1543361949637" duration="16152000" />
+      <workItem from="1543582436881" duration="4476000" />
+      <workItem from="1543630165074" duration="604000" />
+      <workItem from="1543707823344" duration="949000" />
+      <workItem from="1543710520343" duration="1230000" />
+      <workItem from="1543755402376" duration="5391000" />
+      <workItem from="1543778024064" duration="1270000" />
+      <workItem from="1543871141581" duration="6000" />
+      <workItem from="1543879595779" duration="988000" />
+      <workItem from="1543930391172" duration="77000" />
+      <workItem from="1543931276986" duration="3685000" />
+      <workItem from="1544097037701" duration="168000" />
+      <workItem from="1544097352296" duration="10014000" />
+      <workItem from="1544367837401" duration="1103000" />
+      <workItem from="1545947400394" duration="121000" />
+      <workItem from="1545949343330" duration="5374000" />
+      <workItem from="1547898126889" duration="1548000" />
+      <workItem from="1551883854581" duration="337000" />
+      <workItem from="1551884202526" duration="8000" />
+      <workItem from="1551884225589" duration="1537000" />
+      <workItem from="1551886160740" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="399398000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4852459" visible="true" weight="0.28890663" />
+      <window_info id="Structure" order="1" sideWeight="0.5147541" side_tool="true" weight="0.33812407" />
+      <window_info id="Learn" order="2" weight="0.32980332" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5098361" side_tool="true" weight="0.29954615" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3262987" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980048" weight="0.42694804" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.44155845" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019952" side_tool="true" weight="0.42694804" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32467532" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3257329" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32960895" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="7" sideWeight="0.50165015" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Kite" order="8" sideWeight="0.49834985" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/guikar/ufc/ed/ListaCircular.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/guikar/ufc/ed/TestaLista.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>circ.tamanho</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>prog</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/view/EmbarcacoesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/view/GerenciamentoEclusaView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Balsa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Caixa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Cargueiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Registro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Lancha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Embarcacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Eclusa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/model/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/eclusa/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/exemplos/CondSe.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Calcula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="264" lean-forward="true" selection-start-line="264" selection-end-line="264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Contar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="225" column="8" lean-forward="true" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/EquacaoSegundoGrau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Soma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="85" column="9" lean-forward="true" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/ParImpar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Fatorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/Triangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="219" column="8" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/exercicio_sanzio/swing/interfaces/TelaSwingSuperCalculadoraJmf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="202" column="8" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/calculadora/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="413" column="8" lean-forward="true" selection-start-line="413" selection-start-column="8" selection-end-line="413" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/calculadora/Calculos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/ufc/poo/termometro/view/ConfiguraClima.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="261" column="8" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q5/Painel_Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q4/Painel_Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q2/Painel_Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/Provas/Prova_Nº2/interfacequestao/q1/Painel_Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/telaSorteio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/CifraInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/jmf/logica_desafios_e_testes/classes/AdivinhaSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/ufc/poo/termometro/view/ConfiguraClima.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="259" column="8" lean-forward="true" selection-start-line="259" selection-start-column="8" selection-end-line="259" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/ufc/poo/mvc/TelaPrincipalConfiguracao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="106" column="8" lean-forward="true" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q2/Painel_Q2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q1/Painel_Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q4/Painel_Q4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="147" column="35" selection-start-line="147" selection-start-column="35" selection-end-line="147" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/Provas/Prova_Nº2/interfacequestao/q5/Painel_Q5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/AdivinhaSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/CifraInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="126" column="35" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Triangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="206" column="39" lean-forward="true" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/TelaSwingSuperCalculadoraJmf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="203" column="35" selection-start-line="203" selection-start-column="35" selection-end-line="203" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Soma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/ParImpar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Fatorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/EquacaoSegundoGrau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="254" column="35" selection-start-line="254" selection-start-column="35" selection-end-line="254" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Contar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="194" column="35" selection-start-line="194" selection-start-column="35" selection-end-line="194" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/swing/interfaces/Calcula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="227" column="35" selection-start-line="227" selection-start-column="35" selection-end-line="227" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/exercicio_sanzio/exemplos/CondSe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/guikar/netbeans/jmf/logica_desafios_e_testes/classes/telaSorteio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="103" column="35" selection-start-line="103" selection-start-column="35" selection-end-line="103" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>AbsoluteLayout</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
